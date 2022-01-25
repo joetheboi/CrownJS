@@ -31,8 +31,8 @@ mainframe.append(btn1)
 mainframe.append(btn2)
 mainframe.append(btn3)
 mainframe.append(btn4)
-title.textContent = "CrownJS"
-author.textContent = "A collection of exploits by jango#5518"
+title.textContent = "CrownJS(Modded)"
+author.textContent = "A collection of exploits by jango#5518(he so cool)"
 btn1.textContent = "History Flooder"
 btn2.textContent = "Tab Cloak"
 btn3.textContent = "Proxy Browser"
@@ -87,7 +87,7 @@ btn4.onclick = function themes() {
 
 
 btn3.addEventListener("click", function(){
-let url = prompt("Insert a URL.");if (url == "" || url == null) {url = "www.google.com"};var proxyDomain = "https://mikesproxy.herokuapp.com/main/";var code1 = "<iframe src=";var code2 = " width=100% height=100%>";var codeIP1 = code1.concat(proxyDomain);var codeIP2 = codeIP1.concat(url);var codeIP3 = codeIP2.concat(code2);document.write(codeIP3);
+let url = prompt("Insert a URL.");if (url == "" || url == null) {url = "www.google.com"};var proxyDomain = "https://w.epicedufinder.org/main/";var code1 = "<iframe src=";var code2 = " width=100% height=100%>";var codeIP1 = code1.concat(proxyDomain);var codeIP2 = codeIP1.concat(url);var codeIP3 = codeIP2.concat(code2);document.write(codeIP3);
 });
 
 style.textContent = `
