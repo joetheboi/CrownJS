@@ -32,7 +32,7 @@ mainframe.append(btn2)
 mainframe.append(btn3)
 mainframe.append(btn4)
 title.textContent = "CrownJS(Modded)"
-author.textContent = "A collection of exploits by jango#5518(he so cool)"
+author.textContent = "A collection of exploits by jango#5518 (so cool)"
 btn1.textContent = "History Flooder"
 btn2.textContent = "Tab Cloak"
 btn3.textContent = "Proxy Browser"
